@@ -1,4 +1,4 @@
-# Java-Kavovar
+# java-kavovar
 
 Java-Kavovar is a command-line application that simulates a coffee machine. Follow the steps below to run the app:
 
@@ -7,25 +7,17 @@ Java-Kavovar is a command-line application that simulates a coffee machine. Foll
 - Java 11
 
 ### Verify Maven Version
-Run the following command to check your Maven version:
-```bash
-mvn --version
+The used Maven version is 3.6.3:
 ```
-You should see output similar to:
-```
-Apache Maven 3.6.3
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
 Maven home: /opt/apache-maven-3.6.3
 Java version: 11.0.20.1
 ```
 
 ### Verify Java Version
-Run the following command to check your Java version:
-```bash
-java --version
+The used Java version is 11.0.20.1:
 ```
-You should see output similar to:
-```
-openjdk 11.0.20.1
+openjdk 11.0.20.1 2023-08-24
 OpenJDK Runtime Environment (build 11.0.20.1+1-post-Ubuntu-0ubuntu120.04)
 ```
 
