@@ -19,7 +19,6 @@ public class CoffeeMachine {
         map.put(3,"money");
         map.put(4,"disposables");
     }
-    static int [] ingredients = new int[5];
     public CoffeeMachine(int water, int milk, int beans, int disposables, int money)
     {
         this.water = water;
