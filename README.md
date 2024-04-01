@@ -1,6 +1,6 @@
-# java-kavovar
+# java-coffee-machine
 
-Java-Kavovar is a command-line application that simulates a coffee machine. Follow the steps below to run the app:
+Java-coffee-machine is a command-line application that simulates a coffee machine. Follow the steps below to run the app:
 
 ## Prerequisites
 - Apache Maven 3.6.3
